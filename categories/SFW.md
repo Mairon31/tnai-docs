@@ -1,6 +1,6 @@
 ## SFW Category:
 |Function|Category|Description|
-|:--:|:--:|:------|
+|:--|:--:|:------|
 |`kiss`|sfw|Give a kiss to someone you love ❤️|
 |`hug`|sfw|You will have hugs to spare! 🥺|
 |`kick`|sfw|Some kicks will you survive one? 😂|
