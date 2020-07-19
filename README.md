@@ -4,8 +4,8 @@
 For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
 {% endhint %}
 
-[![downloads](https://img.shields.io/npm/v/tnai.svg?maxAge=3600)](https://www.npmjs.com/package/tnai)
-[![version](https://img.shields.io/npm/dt/tnai.svg?maxAge=3600)](https://www.npmjs.com/package/tnai)
+[![downloads](https://img.shields.io/npm/v/tnai.svg?style=for-the-badge)](https://www.npmjs.com/package/tnai)
+[![version](https://img.shields.io/npm/dt/tnai.svg?style=for-the-badge)](https://www.npmjs.com/package/tnai)
 
 
 A simple endpoint that you can use for Discord.js or other apps, follow reading so you can discover how to use our endpoints.
