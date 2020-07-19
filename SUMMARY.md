@@ -4,5 +4,5 @@
 
 ## Available Categories
 * [SFW](categories/SFW.md)
-* [NSFW](categories/NSFW.md)
+* [Hentai](categories/HENTAI.md)
 * [Real](categories/NSFW.md)
