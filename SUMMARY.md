@@ -1,5 +1,5 @@
 ## Remarkable Contents
-* [Using from the API](README.md)
+* [Using from the WEB](README.md)
 * [Using from the NPM](NPMUSE.md)
 
 ## Available Categories
