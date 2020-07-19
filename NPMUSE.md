@@ -12,8 +12,8 @@
 For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
 {% endhint %}
 
-[![downloads](https://img.shields.io/npm/v/tnai.svg?maxAge=3600)]
-[![version](https://img.shields.io/npm/dt/tnai.svg?maxAge=3600)]
+[![downloads](https://img.shields.io/npm/v/tnai.svg?maxAge=3600)](https://www.npmjs.com/package/tnai)
+[![version](https://img.shields.io/npm/dt/tnai.svg?maxAge=3600)](https://www.npmjs.com/package/tnai)
 
 An NSFW/Anime Wrapper API that helps how to get random images!
 
