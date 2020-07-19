@@ -1,7 +1,7 @@
 ## Hentai Category:
 
 |Function|Category|
-|:--:|:--:|
+|:--|:--|
 |`hentai`|nsfw|
 |`boobs`|nsfw|
 |`anal`|nsfw|
