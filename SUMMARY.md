@@ -3,6 +3,6 @@
 * [Using from the NPM](HOWUSE.md)
 
 ## Available Categories
-* [SFW](SFW.md)
-* [NSFW](NSFW.md)
-* [Real](NSFW.md)
+* [SFW](categories/SFW.md)
+* [NSFW](categories/NSFW.md)
+* [Real](categories/NSFW.md)
