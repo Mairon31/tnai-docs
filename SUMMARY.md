@@ -1,6 +1,5 @@
 ## Remarkable Contents
-* [test](README.md)
-* [Getting Started](STARTED.md)
+* [Using from the API](STARTED.md)
 * [How to use our NPM](HOWUSE.md)
 ## Available Categories
 * [SFW](SFW.md)
