@@ -1,6 +1,7 @@
 # Remarkable Contents
 
-* [Getting Started](README.md)
+* [test](README.md)
+* [Getting Started](STARTED.md)
 * [How to use our NPM](HOWUSE.md)
 
 # Available Categories
