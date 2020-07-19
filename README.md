@@ -1,6 +1,6 @@
 # Tnai API
 
-{% hint style="sucess" %}
+{% hint style="success" %}
 For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
 {% endhint %}
 
