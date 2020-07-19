@@ -1,7 +1,7 @@
 
 ## Real Category (From Reddit)
 |Function|Category|
-|:---:|:---:|
+|:---|:---|
 |`ass`|real|
 |`pussy`|real|
 |`boobs`|real|
