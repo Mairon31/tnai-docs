@@ -4,6 +4,10 @@
 For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
 {% endhint %}
 
+[![downloads](https://img.shields.io/npm/v/tnai.svg?maxAge=3600)](https://www.npmjs.com/package/tnai)
+[![version](https://img.shields.io/npm/dt/tnai.svg?maxAge=3600)](https://www.npmjs.com/package/tnai)
+
+
 A simple endpoint that you can use for Discord.js or other apps, follow reading so you can discover how to use our endpoints.
 
 Some dependencies that you can use: [Snekfetch](https://www.npmjs.com/package/snekfetch) | [Node-fetch](https://www.npmjs.com/package/node-fetch)
