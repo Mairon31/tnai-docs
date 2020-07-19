@@ -11,11 +11,13 @@
 An NSFW/Anime Wrapper API that helps how to get random images!
 
 
-## Installation
-``npm i tnai``
+### Installation
+{% hint style="success" %}
+Using `npm i tnai` or accessing from [here](https://npmjs.com/package/tnai)
+{% endhint %}
 
-## Available Features:
-`Example of Use:`
+### Available Features:
+Example of Use:
 ```javascript 
 const client = require("tnai");
 const tnai = new client();
