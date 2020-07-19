@@ -10,7 +10,7 @@ Here you will get the SFW category URL:
 ```js const request = require('snekfetch');
     request.get('http://api.tnai.ml/sfw/kiss').then(response => { 
     console.log(response.body.url)
-});```
+});
 
 ### Sending from a MessageAttachment
 This method is not compatible with Discord.js v11 version.
@@ -20,4 +20,4 @@ This method is not compatible with Discord.js v11 version.
     request.get('http://tnai.ml/sfw/greeting').then(response => {
     const attachment = new MessageAttachment(response.body.url);
     message.channel.send([attachment]);
-    });```
+    });
