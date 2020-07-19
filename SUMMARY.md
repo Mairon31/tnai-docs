@@ -1,4 +1,11 @@
-# Table of contents
+# Remarkable Contents
 
-* [Initial page](README.md)
+* [Getting Started](README.md)
+* [How to use our NPM](HOWUSE.md)
+
+# Available Categories
+
+* [SFW](SFW.md)
+* [NSFW](NSFW.md)
+* [Real](NSFW.md
 
