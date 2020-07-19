@@ -8,11 +8,15 @@
     <a href="https://www.npmjs.com/package/tnai"><img src="https://img.shields.io/npm/dt/tnai.svg?maxAge=3600" alt="NPM downloads" /></a>
   </p>
 </div>
+{% hint style="sucess" %}
+For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
+{% endhint %}
+
 An NSFW/Anime Wrapper API that helps how to get random images!
 
 
 ### Installation
-{% hint style="success" %}
+{% hint style="info" %}
 Using ``npm i tnai`` or accessing from **[here](https://npmjs.com/package/tnai)**.
 {% endhint %}
 
