@@ -8,7 +8,7 @@
     <a href="https://www.npmjs.com/package/tnai"><img src="https://img.shields.io/npm/dt/tnai.svg?maxAge=3600" alt="NPM downloads" /></a>
   </p>
 </div>
-{% hint style="sucess" %}
+{% hint style="success" %}
 For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
 {% endhint %}
 
