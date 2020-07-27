@@ -1,7 +1,7 @@
 # Tnai API
 
-{% hint style="success" %}
-For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
+{% hint style="warning" %}
+The website "https://api.tnai.ml" is still under development, for now it cannot be used, more news on the support server.
 {% endhint %}
 
 [![downloads](https://img.shields.io/npm/v/tnai.svg?style=for-the-badge)](https://www.npmjs.com/package/tnai)
