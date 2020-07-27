@@ -37,7 +37,28 @@ Using: async function kissed() {
   await tnai.sfw.kiss()  
 }
 console.log(kissed())
-``` 
+```
+
+### Using from command handler:
+Basic example:
+```javascript
+const client = require("tnai")
+const tnai = new client();
+const { MessageEmbed } = require("discord.js");
+
+module.exports = {
+"name": "angry",
+"usage": "!angry @mención"
+run: async (client, message, args) => {
+let gif = await tnai.sfw.angry()
+cons embed = new MessageEmbed()
+.setTitle("Some title") // Title
+.setImage(gif) // Gif from Tnai
+.setColor("#ffffff") // Embed color
+message.channel.send(embed)
+}
+}
+```
 
 {% hint style="info" %}
 Remember to have the latest version!
