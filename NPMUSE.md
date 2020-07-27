@@ -48,7 +48,7 @@ const { MessageEmbed } = require("discord.js");
 
 module.exports = {
 "name": "angry",
-"usage": "!angry @mención"
+"usage": "!angry"
 run: async (client, message, args) => {
 let gif = await tnai.sfw.angry()
 cons embed = new MessageEmbed()
