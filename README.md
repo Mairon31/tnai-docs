@@ -3,10 +3,6 @@
   <p>
     <a href="https://discord.gg/2BQMYyV"><img src="https://cdn.discordapp.com/attachments/702047402328195152/732285388063899668/b75c04ba-ba8f-4057-93c0-9322f33526cf2F20200425_115122.png" width="546" alt="Tnai Logo" /></a>  </p>
   <br />
-  <p>
-    <a href="https://www.npmjs.com/package/tnai"><img src="https://img.shields.io/npm/v/tnai.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/tnai"><img src="https://img.shields.io/npm/dt/tnai.svg?maxAge=3600" alt="NPM downloads" /></a>
-  </p>
 </div>
 {% hint style="success" %}
 For any questions enter our discord server: [https://discord.gg/2BQMYyV](https://discord.gg/2BQMYyV)
