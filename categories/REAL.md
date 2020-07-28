@@ -9,3 +9,7 @@
 |`porngif`|real|
 |`cosplay`|real|
 |`bdsm`|real|
+|`black`|real|
+|`traps`|real|
+|`lesbians`|real|
+|`pawg`|real|
