@@ -1,6 +1,5 @@
 {% hint style="info" %} The latest updates will appear at the top. {% endhint %}
 ## v1.0.3
-✅ TNAI UPDATE 1.0.3 ✅ 
 
 > What's new in this version:
 
