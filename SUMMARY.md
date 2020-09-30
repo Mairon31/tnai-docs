@@ -10,4 +10,4 @@
 * [Real](categories/REAL.md)
 
 ## Others
-* [Discord Widget](DWIDGET.md)
+* [Discord Widget](DWIDGET.html)
