@@ -1,7 +1,7 @@
 {% hint style="info" %} The latest updates will appear at the top. {% endhint %}
 ## v1.0.3
 
-> What's new in this version:
+What's new in this version:
 
 + More categories in **REAL**  
 > added **double** in `NSFW` category.  
