@@ -8,3 +8,6 @@
 * [SFW](categories/SFW.md)
 * [Hentai](categories/HENTAI.md)
 * [Real](categories/REAL.md)
+
+## Others
+* [Changelog](CHANGELOG.md)
