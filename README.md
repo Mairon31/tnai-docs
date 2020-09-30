@@ -19,34 +19,25 @@ An NSFW/Anime Wrapper API that helps how to get random images!
 Using ``npm i tnai`` or accessing from **[here](https://npmjs.com/package/tnai)**.
 {% endhint %}
 
-### Using:
-Example of Use:
-```javascript 
-const client = require("tnai");
-const tnai = new client();
-
-tnai.<category>.<function>()
-
-// It is necessary to use async and await modules
-
-Using: async function kissed() {
-  await tnai.sfw.kiss()  
-}
-console.log(kissed())
+### Fast Example:
+```javascript
+const tnai = require('tnai');
+let client = new client(); 
+console.log(client.sfw.pat())
 ```
 
 ### Using from command handler:
 Basic example:
 ```javascript
-const client = require("tnai")
-const tnai = new client();
+const tnai = require("tnai")
+const client = new client();
 const { MessageEmbed } = require("discord.js");
 
 module.exports = {
 "name": "angry",
 "usage": "!angry"
 run: async (client, message, args) => {
-let gif = await tnai.sfw.angry()
+let gif = await client.sfw.angry()
 cons embed = new MessageEmbed()
 .setTitle("Some title") // Title
 .setImage(gif) // Gif from Tnai
@@ -57,5 +48,5 @@ message.channel.send(embed)
 ```
 
 {% hint style="info" %}
-Remember to have the latest version!
+Remember to have the latest version.
 {% endhint %}
