@@ -8,6 +8,9 @@ Last edit: 30/09/20
 
 An NSFW/Anime Wrapper API that helps how to get random images!
  
+## Getting started:
+* **[Using from the Web](WEBUSE.md)**
+* **[Using from the Package](PKGUSE.md)**
 ## Available categories:
 * **[NSFW](categories/HENTAI.md)**
 It is totally Hentai category, from furry to ass.
