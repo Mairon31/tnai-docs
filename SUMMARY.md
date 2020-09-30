@@ -1,4 +1,4 @@
-* [TNAI](README.md)
+* [TNAI](STARTED.md)
 
 ## Getting started
 * [Using from the Web](WEBUSE.md)
