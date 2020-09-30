@@ -1,6 +1,6 @@
 
-* [Using from the web](WEBUSE.md)
-* [Using from the NPM](README.md)
+* [Using from the Web](WEBUSE.md)
+* [Using from the Package](README.md)
 
 ## Available Categories
 * [SFW](categories/SFW.md)
