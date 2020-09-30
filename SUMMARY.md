@@ -8,6 +8,3 @@
 * [SFW](categories/SFW.md)
 * [Hentai](categories/HENTAI.md)
 * [Real](categories/REAL.md)
-
-## Others
-* [Discord Widget](DWIDGET.html)
