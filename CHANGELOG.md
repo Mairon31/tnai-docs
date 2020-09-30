@@ -3,7 +3,7 @@
 
 > What's new in this version:
 
-* + More categories in **REAL**  
++ More categories in **REAL**  
 > added **double** in `NSFW` category.  
 > added **gif** in `NSFW` category.  
 > added **futa** in `NSFW` category.  
@@ -14,11 +14,11 @@
 > added **furry** in `NSFW` category.  
 > added **rule34** in `NSFW` category. 
 
-* + More categories in **REAL**  
++ More categories in **REAL**  
 > added **black** in `REAL` category.  
 > added **traps** in `REAL` category.  
 > added **lesbian** in `REAL` category.  
 > added **pawg** in `REAL` category.
 
-* + Add docs link in **NPM**   
++ Add docs link in **NPM**   
 > _Documentation now appears on NPM page._
