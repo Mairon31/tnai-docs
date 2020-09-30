@@ -16,4 +16,3 @@ An NSFW/Anime Wrapper API that helps how to get random images!
 * **[NSFW](categories/HENTAI.md)**
 * **[SFW](categories/SFW.md)**
 * **[REAL](categories/REAL.md)**
-You prefer a real experience, this category is the one.
