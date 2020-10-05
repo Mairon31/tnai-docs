@@ -21,9 +21,11 @@ Using ``npm i tnai`` or accessing from **[here](https://npmjs.com/package/tnai)*
 
 ### Fast Example:
 ```javascript
-const tnai = require('tnai');
-let client = new client(); 
-console.log(client.sfw.pat())
+const tnai = require('tnai'),
+cli = new client(),
+gif = cli.sfw.hug()
+
+console.log(gif)
 ```
 
 ### Using from command handler:
