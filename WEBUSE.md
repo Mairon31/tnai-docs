@@ -1,7 +1,7 @@
 # Tnai API
 
-{% hint style="warning" %}
-The website "https://api.tnai.ml" is still under development, for now it cannot be used, more news on the support server.
+{% hint style="sucess" %}
+The "https://tnai.ml" website can now be used!.
 {% endhint %}
 
 [![downloads](https://img.shields.io/npm/v/tnai.svg?style=for-the-badge)](https://www.npmjs.com/package/tnai)
@@ -17,7 +17,7 @@ Here you will get the SFW category URL:
 
 ```js
 const request = require('snekfetch');
-    request.get('http://api.tnai.ml/sfw/kiss').then(response => { 
+    request.get('http://tnai.ml/sfw/hug').then(response => { 
     console.log(response.body.url)
 });```
 
@@ -27,7 +27,7 @@ This method is not compatible with Discord.js v11 version.
 ```js
 const { MessageEmbed, MessageAttachment } = require('discord.js');
     const request = require('snekfetch');
-    request.get('http://tnai.ml/sfw/greeting').then(response => {
+    request.get('http://tnai.ml/sfw/hug').then(response => {
     const attachment = new MessageAttachment(response.body.url);
     message.channel.send([attachment]);
     });```
