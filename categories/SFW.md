@@ -1,6 +1,6 @@
 ## SFW Category:
-|Function|Category|Description|
-|:--|:--:|:------|
+|Function|Category|
+|:--|:--:|
 |`kiss`|sfw|
 |`hug`|sfw|
 |`kick`|sfw|
