@@ -14,7 +14,9 @@ What's new in this version:
 
 + Externals:   
 > The logo has been changed!    
+
 > Documentation was edited for changes and accommodations.      
+
 > The NPM README has been edited to avoid confusion when using it, we also added a member @Jean.      
 
 > Note: The update has already been published in NPM.   
