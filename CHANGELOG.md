@@ -1,6 +1,6 @@
 {% hint style="info" %} The latest updates will appear at the top. {% endhint %}
 
-## 1.0.5 
+## v1.0.5 
 
 What's new in this version:
 
