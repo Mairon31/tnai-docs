@@ -1,4 +1,24 @@
 {% hint style="info" %} The latest updates will appear at the top. {% endhint %}
+
+## 1.0.5 
+
+What's new in this version:
+
++ In the Package: 
+> `SFW` now has images **urls** from **our domain**! 🎉
+> `NSFW` was changed to `HENTAI` 😮
+> added `trap` (again) in `REAL` category.
+>  `furry` was changed by `yiff` category. [`HENTAI`]
+> `lesbians` was changed by `lesbian` [`REAL`]
+> _Add Typescript typings! [IN Testing]_
+
++ Externals:
+> The logo has been changed! 
+> Documentation was edited for changes and accommodations.
+> The NPM README has been edited to avoid confusion when using it, we also added a member  <@525842461655040011>.
+
+> Note: The update has already been published in NPM.
+
 ## v1.0.3
 
 What's new in this version:
