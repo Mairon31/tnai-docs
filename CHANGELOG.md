@@ -12,8 +12,11 @@ What's new in this version:
 > `lesbians` was changed by `lesbian` [`REAL`]  
 > _Add Typescript typings! [IN Testing]_     
 
-+ Externals:   
-> The logo has been changed!    
++ Externals (**Web, Discord, Docs**):  
+ 
+> The logo has been changed!  
+  
+> A cleaner and more orderly dashboard was added.
 
 > Documentation was edited for changes and accommodations.      
 
