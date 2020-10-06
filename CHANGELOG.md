@@ -13,9 +13,9 @@ What's new in this version:
 > _Add Typescript typings! [IN Testing]_     
 
 + Externals:   
-> The logo has been changed!   
-> Documentation was edited for changes and accommodations.   
-> The NPM README has been edited to avoid confusion when using it, we also added a member @Jeam.   
+> The logo has been changed!    
+> Documentation was edited for changes and accommodations.      
+> The NPM README has been edited to avoid confusion when using it, we also added a member @Jean.      
 
 > Note: The update has already been published in NPM.   
 
