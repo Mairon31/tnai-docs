@@ -4,7 +4,7 @@
 
 What's new in this version:
 
-+ In the Package: 
++ In the NPM **Package**: 
 > `SFW` now has images **urls** from **our domain**! 🎉   
 > `NSFW` was changed to `HENTAI` 😮   
 > added `trap` (again) in `REAL` category.   
