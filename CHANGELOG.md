@@ -19,7 +19,12 @@ What's new in this version:
 
 > The NPM README has been edited to avoid confusion when using it, we also added a member @Jean.      
 
+## v1.0.4
 
+What's new in this version:
+
++ Fixed:
+> Fixed bugs from the previous version.
 
 ## v1.0.3
 
