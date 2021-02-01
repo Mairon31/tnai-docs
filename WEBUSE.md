@@ -27,7 +27,11 @@ This method is not compatible with Discord.js v11 version.
 ```js
 const { MessageEmbed, MessageAttachment } = require('discord.js');
     const request = require('snekfetch');
-    request.get('http://tnai.ml/sfw/hug').then(response => {
+    request.get('http://tnai.ml/sfw/hug', {
+    headers: {
+    "Authorization": "YOUR_TOKEN"
+    }
+    }).then(response => {
     const attachment = new MessageAttachment(response.body.url);
     message.channel.send([attachment]);
     });```
