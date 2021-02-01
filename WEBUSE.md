@@ -17,7 +17,11 @@ Here you will get the SFW category URL:
 
 ```js
 const request = require('snekfetch');
-    request.get('http://tnai.ml/sfw/hug').then(response => { 
+    request.get('https://tnai.ml/api/image?type=hug', {
+    headers: {
+    "Authorization": "YOUR_TOKEN"
+    }
+    }).then(response => { 
     console.log(response.body.url)
 });```
 
