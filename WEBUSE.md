@@ -34,4 +34,5 @@ const { MessageEmbed, MessageAttachment } = require('discord.js');
     }).then(response => {
     const attachment = new MessageAttachment(response.body.url);
     message.channel.send([attachment]);
-    });```
+    });
+```
