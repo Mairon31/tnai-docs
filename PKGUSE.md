@@ -30,7 +30,7 @@ Using ``npm i tnai``
 ### Fast Example:
 ```javascript
 const tnai = require('tnai'),
-cli = new client("YOUR_TOKEN"),
+cli = new tnai("YOUR_TOKEN"),
 gif = await cli.sfw.hug()
 
 console.log(gif) // Response: https://cdn.tnai.ml/images/aEfk2c8d.gif
@@ -40,7 +40,7 @@ console.log(gif) // Response: https://cdn.tnai.ml/images/aEfk2c8d.gif
 Basic example:
 ```javascript
 const tnai = require("tnai")
-const client = new client("YOUR_TOKEN");
+const client = new tnai("YOUR_TOKEN");
 const { MessageEmbed } = require("discord.js");
 
 module.exports = {
