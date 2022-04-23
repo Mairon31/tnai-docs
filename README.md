@@ -13,6 +13,4 @@ An Anime Wrapper API that helps how to get random images!
 * **[Using from the Package](PKGUSE.md)**
 
 ## Available categories:
-* ~~**[HENTAI](categories/HENTAI.md)**~~ (disabled)
 * **[SFW](categories/SFW.md)**
-* ~~**[REAL](categories/REAL.md)**~~ (disabled)
